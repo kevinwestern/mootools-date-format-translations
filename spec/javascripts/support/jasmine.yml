@@ -11,10 +11,10 @@
 #   - dist/**/*.js
 #
 src_files:
-    - mootools-core-1.4.2-full-nocompat.js
-    - mootools-more-1.4.0.1.js
-    - mootools-date-format-translation.js        
-    - phpdatetranslations.js
+    - src/mootools/mootools-core-1.4.2-full-nocompat.js
+    - src/mootools/mootools-more-1.4.0.1.js
+    - src/mootools-date-format-translation.js        
+    - language-translations/phpdatetranslations.js
 
 # stylesheets
 #
