@@ -1,0 +1,26 @@
+Date.addFormatTranslations('php',{
+	// php : mootools
+	'd': 'd',
+	'D': 'a',
+	'j': 'e',
+	'l': 'A',
+	'w': 'w',
+	'W': 'U',
+	'F': 'B',
+	'm': 'm',
+	'M': 'b',
+	'Y': 'y',
+	'y': 'y',
+	'A': 'p',
+	'g': 'l',
+	'G': 'k',
+	'h': 'I',
+	'H': 'H',
+	'i': 'M',
+	's': 'S',
+	'O': 'z',			
+	'T': 'Z',
+	'c': 'iso8601',
+	'r': 'rfc2822',
+	'u': 's'
+});
